@@ -5,7 +5,8 @@
 💰 Maliyet Avantajı
 
 - **Bolt/v0:** Token başına ücretlendirme, hızlı tükenen krediler
-- **Claude Code:** Claude Pro aboneliği ile kullanım (aylık ~$20)
+- **Claude Code:** Claude Pro aboneliği ile kullanım (aylık ~$20 KAMPANYA İLE 10$)
+- **Kampanya Linki** Dikkat!, Daha önce claudeye giriş yapmadığınız cihaz ve mail ile üyelik oluşturun, Gerekirse farklı telefondan mobil veri ile deneyin [10$ Claude Üyeliği için Tıkla](https://claude.ai/alex)
 - **Stratejim:** İlk taslağı Bolt/v0'da oluştur, özelleştirmeleri Claude Code'da yap, deployment için tekrar Bolt'a yükle
 
 ## 💡 Önerilen İş Akışı (Lovable gibi sistemler için de geçerlidir)
