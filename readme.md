@@ -16,6 +16,13 @@
 3. Claude Code'u proje klasörünüzde çalıştırın ve eklemek istediğiniz özellikleri ekleyin
 4. Özelleştirmeleriniz bitince Bolt'a geri dönün ve proje dosyalarını yükleyip kaydedin (0 token)
 
+## NOT!
+
+Claude Code ile çalışırken Claude Pro planı ile bağlanırsanız token kredisi çok daha fazla dayanıyor.
+Hem API Hem de Claude Pro planı ile deneme yaptım, API kısmında 10$'lık bakiyenin hızlıca eridiğini fark ettim.
+Bu yüzden de kendim şöyle bir yol izlemeye karar verdim.
+Claude Pro Planında sınıra takılırsanız bakiye yüklemek yerine yeni bir Claude hesabı açıp pro planı alın (10$) ve projenizi geliştirmeye devam edin.
+
 ## 🚀 Kurulum Adımları
 
 ### 1. Node.js Kurulumu
