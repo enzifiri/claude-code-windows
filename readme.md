@@ -98,7 +98,7 @@ Claude Code, Git'in sisteminizde kurulu olmasını gerektirir. Git kurulu değil
 
 2. Claude Code'u başlatın:
    ```bash
-   claude-code
+   claude
    ```
 
 3. Claude'a ne yapmak istediğinizi anlatın ve kodlamaya başlayın!
