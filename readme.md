@@ -53,7 +53,7 @@
 
 3. Kurulum tamamlandığında şu komutla doğrulama yapın:
    ```bash
-   claude-code --version
+   claude --version
    ```
 
 ### 3. Git Kontrolü
