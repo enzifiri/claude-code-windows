@@ -1,3 +1,7 @@
+Bu dosyayı indirin ve Claude Codeye referans gösterin, bu sayede projenize telefon doğrulaması ekleyebileceksiniz.
+
+Örnek Prompt
+Merhaba, Mevcut projeme SMS Doğrulama sistemi eklemek istiyorum, alttaki kaynak bir başka projeye entegre etmek için kullanılmış, burdaki bilgileri referans alarak mevcut projeme sms doğrulama eklemeni istiyorum.
 
 ---
 
@@ -491,3 +495,4 @@ Artık telefon doğrulama sistemi:
 2. `SMS_CONFIG.provider = 'netgsm'` yap
 3. Test et
 4. Credentials'ları commit etme!
+
